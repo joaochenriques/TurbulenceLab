@@ -1,8 +1,8 @@
 """
 # Instituto Superior Tecnico, University of Lisbon
-## Laboratory data acquisition script <Version 0.24 2021/11/22>
+## Laboratory data acquisition script <Version 0.25 2024/05/22>
 ___
-Copyright (C) 2018-2022 by Joao C. C. Henriques <joaochenriques@tecnico.pt>
+Copyright (C) 2018-2024 by Joao C. C. Henriques <joaochenriques@tecnico.pt>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
